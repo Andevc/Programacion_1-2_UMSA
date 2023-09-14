@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BB29C680-9F17-44AA-B2A0-DC5AFCB1C8BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="e1d3_Curso/CPreparatoriaTecnico.cs">
+    <Files>
+      <File FileName="e1d3_Curso/Principal.cs" Line="1" Column="1" />
+      <File FileName="e1d3_Curso/Curso.cs" Line="1" Column="1" />
+      <File FileName="e1d3_Curso/CSecundaria.cs" Line="1" Column="1" />
+      <File FileName="e1d3_Curso/CPreparatoria.cs" Line="1" Column="1" />
+      <File FileName="e1d3_Curso/CPreparatoriaTecnico.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="e1d3_Curso" expanded="True">
+            <Node name="e1d3_Curso" expanded="True">
+              <Node name="CPreparatoriaTecnico.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.e1d3__Curso FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

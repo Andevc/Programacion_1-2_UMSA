@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5EFA37D5-1E9A-430C-B82B-993BD8D25916}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="e3_Estacion/Principal.cs">
+    <Files>
+      <File FileName="e3_Estacion/Bus.cs" Line="1" Column="1" />
+      <File FileName="e3_Estacion/Estacion.cs" Line="1" Column="1" />
+      <File FileName="e3_Estacion/ArchEstacion.cs" Line="1" Column="1" />
+      <File FileName="e3_Estacion/Principal.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="e3_Estacion" expanded="True">
+            <Node name="e3_Estacion" expanded="True">
+              <Node name="Principal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.e3__Estacion FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

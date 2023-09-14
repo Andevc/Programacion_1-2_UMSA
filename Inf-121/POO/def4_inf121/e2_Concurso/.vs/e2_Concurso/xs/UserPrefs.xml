@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{35935524-98E1-43A8-8EFE-86F0B15BE8B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="e2_Concurso/Mascota.cs">
+    <Files>
+      <File FileName="e2_Concurso/Concurso.cs" Line="1" Column="1" />
+      <File FileName="e2_Concurso/Principal.cs" Line="1" Column="2" />
+      <File FileName="e2_Concurso/Acto.cs" Line="1" Column="1" />
+      <File FileName="e2_Concurso/Mascota.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="e2_Concurso" expanded="True">
+            <Node name="e2_Concurso" expanded="True">
+              <Node name="Mascota.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.e2__Concurso FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

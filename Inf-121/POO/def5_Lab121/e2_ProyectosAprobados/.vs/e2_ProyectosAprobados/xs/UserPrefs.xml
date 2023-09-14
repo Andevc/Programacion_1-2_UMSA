@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6C6F58AF-D565-4F2F-AEC1-F7C3DBBDDAF8}|Default">
+  <MonoDevelop.Ide.ItemProperties.e2__ProyectosAprobados FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="e2_ProyectosAprobados/Principal.cs">
+    <Files>
+      <File FileName="e2_ProyectosAprobados/ArchEmpleado.cs" Line="1" Column="1" />
+      <File FileName="e2_ProyectosAprobados/Empleado.cs" Line="1" Column="1" />
+      <File FileName="e2_ProyectosAprobados/ProyectosAprobados.cs" Line="1" Column="1" />
+      <File FileName="e2_ProyectosAprobados/Proyecto.cs" Line="1" Column="1" />
+      <File FileName="e2_ProyectosAprobados/ArchPtoyecto.cs" Line="1" Column="1" />
+      <File FileName="e2_ProyectosAprobados/ArchProyApro.cs" Line="1" Column="1" />
+      <File FileName="e2_ProyectosAprobados/ArchProyecto.cs" Line="11" Column="1" />
+      <File FileName="e2_ProyectosAprobados/Principal.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="e2_ProyectosAprobados" expanded="True">
+            <Node name="e2_ProyectosAprobados" expanded="True">
+              <Node name="Principal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

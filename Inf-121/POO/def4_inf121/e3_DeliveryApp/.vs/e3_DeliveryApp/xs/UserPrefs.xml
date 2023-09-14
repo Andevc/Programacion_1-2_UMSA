@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2584D551-6140-4AC4-BD33-4E7566CD8351}|Default">
+  <MonoDevelop.Ide.ItemProperties.e3__DeliveryApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="e3_DeliveryApp/Principal.cs">
+    <Files>
+      <File FileName="e3_DeliveryApp/Pedido.cs" Line="1" Column="1" />
+      <File FileName="e3_DeliveryApp/Persona.cs" Line="1" Column="1" />
+      <File FileName="e3_DeliveryApp/Cliente.cs" Line="1" Column="1" />
+      <File FileName="e3_DeliveryApp/Repartidor.cs" Line="1" Column="1" />
+      <File FileName="e3_DeliveryApp/DeliveryApp.cs" Line="1" Column="1" />
+      <File FileName="e3_DeliveryApp/Principal.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="e3_DeliveryApp" expanded="True">
+            <Node name="e3_DeliveryApp" expanded="True">
+              <Node name="Principal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

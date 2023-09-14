@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e1d3_Curso", "e1d3_Curso\e1d3_Curso.csproj", "{BB29C680-9F17-44AA-B2A0-DC5AFCB1C8BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB29C680-9F17-44AA-B2A0-DC5AFCB1C8BF}.Debug|x86.ActiveCfg = Debug|x86
+		{BB29C680-9F17-44AA-B2A0-DC5AFCB1C8BF}.Debug|x86.Build.0 = Debug|x86
+		{BB29C680-9F17-44AA-B2A0-DC5AFCB1C8BF}.Release|x86.ActiveCfg = Release|x86
+		{BB29C680-9F17-44AA-B2A0-DC5AFCB1C8BF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

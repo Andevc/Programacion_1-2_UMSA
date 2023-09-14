@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3EB59EE1-EF64-41C3-9CED-5DB32B2A3955}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="e2d3_Materia/Materia.cs">
+    <Files>
+      <File FileName="e2d3_Materia/Principal.cs" Line="1" Column="1" />
+      <File FileName="e2d3_Materia/Materia.cs" Line="4" Column="7" />
+      <File FileName="e2d3_Materia/MCatedra.cs" Line="1" Column="1" />
+      <File FileName="e2d3_Materia/MLaboratorio.cs" Line="1" Column="1" />
+      <File FileName="e2d3_Materia/MProgramacionOrientadaObjetos.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="e2d3_Materia" expanded="True">
+            <Node name="e2d3_Materia" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.e2d3__Materia FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

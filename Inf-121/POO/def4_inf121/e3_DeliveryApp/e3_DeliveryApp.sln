@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e3_DeliveryApp", "e3_DeliveryApp\e3_DeliveryApp.csproj", "{2584D551-6140-4AC4-BD33-4E7566CD8351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2584D551-6140-4AC4-BD33-4E7566CD8351}.Debug|x86.ActiveCfg = Debug|x86
+		{2584D551-6140-4AC4-BD33-4E7566CD8351}.Debug|x86.Build.0 = Debug|x86
+		{2584D551-6140-4AC4-BD33-4E7566CD8351}.Release|x86.ActiveCfg = Release|x86
+		{2584D551-6140-4AC4-BD33-4E7566CD8351}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

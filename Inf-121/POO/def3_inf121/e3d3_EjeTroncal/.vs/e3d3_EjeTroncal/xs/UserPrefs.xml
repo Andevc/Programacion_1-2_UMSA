@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{136CC655-ACF7-49B5-ADA0-74F8CEE57CC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="e3d3_EjeTroncal/Cochabamba.cs">
+    <Files>
+      <File FileName="e3d3_EjeTroncal/Principal.cs" Line="1" Column="1" />
+      <File FileName="e3d3_EjeTroncal/EjeTroncal.cs" Line="1" Column="1" />
+      <File FileName="e3d3_EjeTroncal/LaPaz.cs" Line="1" Column="1" />
+      <File FileName="e3d3_EjeTroncal/SantaCruz.cs" Line="1" Column="1" />
+      <File FileName="e3d3_EjeTroncal/Cochabamba.cs" Line="9" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="e3d3_EjeTroncal" expanded="True">
+            <Node name="e3d3_EjeTroncal" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.e3d3__EjeTroncal FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
